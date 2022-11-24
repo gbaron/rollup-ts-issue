@@ -1,0 +1,19 @@
+{
+  "name": "rollup-ts-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-typescript": "^9.0.2",
+    "rollup": "^3.4.0"
+  },
+  "devDependencies": {
+    "tslib": "^2.4.1",
+    "typescript": "^4.9.3"
+  }
+}
